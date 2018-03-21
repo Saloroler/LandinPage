@@ -17,7 +17,7 @@
 
 6)Slick - http://kenwheeler.github.io/slick/,
 
-7)Slicknav(for adaptive) - http://slicknav.io/,
+7)Slicknav(for adaptive and media queryes) - http://slicknav.io/,
 
 8)GoogleMapsApi - https://developers.google.com/maps/?hl=en
 
