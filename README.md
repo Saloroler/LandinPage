@@ -18,3 +18,5 @@ There is some screenshots:
 
 ![screenshot_7](https://user-images.githubusercontent.com/35704856/37709468-fd25d0ce-2d12-11e8-91f1-a7e5984cf896.png)
 
+![screenshot_8](https://user-images.githubusercontent.com/35704856/37709568-3fdeef36-2d13-11e8-933c-7b6d47ac70cb.png)
+
